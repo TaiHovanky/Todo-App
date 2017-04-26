@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TodoApi",
+    "\\TodoApi\\bin",
+    "\\TodoApi\\bin\\Debug",
+    "\\TodoApi\\bin\\Release",
+    "\\TodoApi\\Models"
+  ],
+  "SelectedNode": "\\TodoApi\\Models\\TodoItem.cs",
+  "PreviewInSolutionExplorer": false
+}
